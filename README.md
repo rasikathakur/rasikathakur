@@ -1,12 +1,11 @@
 # Hey there! 👋 I'm Rasika Thakur
 
-🎯 **AI & Data Science Student** | 🚀 **Full-Stack Developer** 
+🎯 **Artificial Intelligence & Data Science Student** | 🚀 **Full-Stack Developer** 
 
 *"Passionate about solving real-world problems through scalable software and thoughtful UI/UX that leave a lasting impact."* 💫
 
 **💡 Always open to collaborations, internships, and exciting opportunities!**
   
-
 
 ---
 
@@ -14,8 +13,6 @@
 
 - 🌱 Currently diving deep into **SpringBoot** and advanced **Data Science** techniques
 - 💼 Actively preparing for placements (DSA, aptitude, technical interviews - bring it on!)
-- 🏆 **Smart India Hackathon 2024 Finalist** & **Top 1% in SURAKSHA Cyber Hackathon**
-- 🔬 Part of the **Research & Development Team** at INNOV-ERA
 
 ## 💻 Tech Arsenal
 
