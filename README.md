@@ -100,7 +100,7 @@ Feel free to reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasika-thakur)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasikathakur)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasikathakur303@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Personal_Website-00C7B7?style=for-the-badge&logo=website&logoColor=white)](https://rasikathakur-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rasikathakur-portfolio.vercel.app)
 
 🌟 **Let's build something amazing together!**
 
