@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Rasika Thakur
 
-🎯 **Artificial Intelligence & Data Science Student** | 🚀 **Full-Stack Developer** 
+🎯 **Artificial Intelligence & Data Science Student** | 🚀 **Software Developer** 
 
 *"Passionate about solving real-world problems through scalable software and thoughtful UI/UX that leave a lasting impact."* 💫
 
@@ -13,6 +13,7 @@
 
 - 🌱 Currently diving deep into **SpringBoot** and advanced **Data Science** techniques
 - 💼 Actively preparing for placements (DSA, aptitude, technical interviews - bring it on!)
+- Currently working on **Ascendify** - A personalized career and skill advisor tool
 
 ## 💻 Tech Arsenal
 
