@@ -2,7 +2,7 @@
 
 🎯 **Artificial Intelligence & Data Science Student** | 🚀 **Software Developer** 
 
-*"Passionate about solving real-world problems through scalable software and thoughtful UI/UX that leave a lasting impact."* 💫
+*"Passionate about roles that challenge me to integrate backend systems with AI-driven intelligence, delivering scalable software solutions and thoughtful UI/UX that create lasting impact on real-world problems through technical excellence and collaborative innovation."* 💫
 
 **💡 Always open to collaborations, internships, and exciting opportunities!**
   
@@ -89,10 +89,9 @@ When I'm not debugging or building something cool, you'll find me with my guitar
 ## 🤝 Let's Connect & Build Something Amazing!
 
 Always excited to collaborate on innovative projects, discuss tech trends, or just chat about music! Whether you're looking for:
-- **Open source collaborations**
-- **Internship/job opportunities** 
+- **Internship opportunities**
+- **Job opportunities** 
 - **Project partnerships**
-- **Tech discussions**
 
 Feel free to reach out! 
 
