@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Rasika Thakur
 
-🎯 **Artificial Intelligence & Data Science Student** | 🚀 **Software Developer** 
+🎯 **Artificial Intelligence & Data Science Student** | 🚀 **Software Engineer** 
 
 *"Passionate about roles that challenge me to integrate backend systems with AI-driven intelligence, delivering scalable software solutions and thoughtful UI/UX that create lasting impact on real-world problems through technical excellence and collaborative innovation."* 💫
 
