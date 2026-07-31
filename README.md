@@ -13,7 +13,7 @@
 
 - 🌱 Currently diving deep into **SpringBoot** and advanced **Data Science** techniques
 - 💼 Actively preparing for placements (DSA, aptitude, technical interviews - bring it on!)
-- Currently working on **Ascendify** - A personalized career and skill advisor tool
+- Currently working on Real-World Projects at **DATADOVE TECH PVT. LTD.**
 
 ## 💻 Tech Arsenal
 
